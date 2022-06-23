@@ -1,0 +1,11 @@
+{
+  "viagens": [
+    {
+      "nome": "Felipe",
+      "cpf": "2000335",
+      "endereco": "Rua Felipaldo Puponildo - 68",
+      "email": "zapzap@gmail.com",
+      "id": 1
+    }
+  ]
+}
